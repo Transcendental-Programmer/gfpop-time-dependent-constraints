@@ -74,5 +74,3 @@ license()
 
 This work extends established changepoint detection methods by incorporating time-sensitive constraints, with contributions from both the gfpop community and the broader changepoint research community.
 
----
-*End of Project README*
