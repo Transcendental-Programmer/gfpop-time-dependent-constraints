@@ -33,7 +33,7 @@ This project extends the gfpop package to support time-dependent constraints in 
    ```
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourrepo/gfpop-time-dependent-constraints.git
+   git clone https://github.com/Transcendental-Programmer/gfpop-time-dependent-constraints.git
    ```
 3. **Set Up the Environment:**  
    For reproducibility, use [renv_setup.md](renv_setup.md) to create an isolated R environment.
