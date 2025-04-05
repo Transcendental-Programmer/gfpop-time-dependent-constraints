@@ -76,10 +76,16 @@ For a fully reproducible environment, we use renv:
    # For testing
    renv::install("testthat")
    ```
+<<<<<<< HEAD
 
 6. **Save the environment state**:
    ```r
    renv::snapshot()
+=======
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Transcendental-Programmer/gfpop-time-dependent-constraints.git
+>>>>>>> 7eb01425ac58e93e3e3d2978611808a48225b131
    ```
 
 7. **When returning to the project later**:
@@ -170,4 +176,16 @@ plotModel(g, title="Example Graph")
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the terms of the R license.
+=======
+For distribution details, run in an R session:
+```r
+license()
+```
+
+## Acknowledgements
+
+This work extends established changepoint detection methods by incorporating time-sensitive constraints, with contributions from both the gfpop community and the broader changepoint research community.
+
+>>>>>>> 7eb01425ac58e93e3e3d2978611808a48225b131
