@@ -165,7 +165,7 @@ plotModel(g, title="Example Graph")
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername) - Implemented the Easy Test solution
+- [Priyansh Saxena](https://github.com/Transcendental-Programmer) - Implemented the Easy Test solution
 
 ## Mentors
 
