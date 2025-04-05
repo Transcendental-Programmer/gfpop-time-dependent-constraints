@@ -93,8 +93,6 @@ For a fully reproducible environment, we use renv:
    renv::restore()  # Reinstall all packages from the lockfile
    ```
 
-For detailed renv instructions, see `renv_setup.md`.
-
 ## Running Tests
 
 We use testthat for testing the implementation:
